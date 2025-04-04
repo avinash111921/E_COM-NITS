@@ -20,7 +20,7 @@ const Orders = ({ token }) => {
       );
       // console.log(response.data);
       if (response.data.success && response.data.data) {
-        setOrders(response.data.data);
+        setOrders(response.data.data.reverse());
       } else {
         toast("No product");
       }
