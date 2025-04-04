@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../components/hero'
+import Hero from '../components/Hero.jsx'
 import LatestCollection from '../components/LatestCOllection'
 import BestSeller from '../components/BestSeller'
 import OurPolicy from '../components/OurPolicy'
