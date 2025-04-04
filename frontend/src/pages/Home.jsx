@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from '../components/Hero.jsx'
-import LatestCollection from '../components/LatestCOllection'
+import LatestCollection from '../components/LatestCollection.jsx'
 import BestSeller from '../components/BestSeller'
 import OurPolicy from '../components/OurPolicy'
 import NewsLetterBox from '../components/NewsLetterBox'
